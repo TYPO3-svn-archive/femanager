@@ -1,0 +1,31 @@
+.tx-femanager {
+  fieldset {
+    border: none;
+    padding: 10px;
+    background-color: $noteSoft;
+  }
+  legend {
+    float: left;
+    margin-left: -2px;
+    font-weight: bold;
+  }
+  label {
+    float: left;
+    width: 150px;
+    clear: left;
+    font-weight: bold;
+  }
+  input,
+  select,
+  textarea {
+    width: 200px;
+    padding: 4px;
+    &:focus {
+      background-color: $errorSoft2;
+    }
+  }
+  .femanager_fieldset {
+    padding: 10px 0;
+    clear: left;
+  }
+}

@@ -1,0 +1,15 @@
+{namespace femanager=In2\Femanager\ViewHelpers}
+<f:form.validationResults for="{object}">
+	<f:if condition="{validationResults.flattenedErrors}">
+		<ul class="femanager_error">
+			<f:for each="{validationResults.flattenedErrors}" key="propertyPath" as="errors">
+				<f:for each="{errors}" as="error">
+					<li>
+						<femanager:misc.upper string="{error.code}" />:
+						<f:translate key="{error.message}" />
+					</li>
+				</f:for>
+			</f:for>
+		</ul>
+	</f:if>
+</f:form.validationResults>

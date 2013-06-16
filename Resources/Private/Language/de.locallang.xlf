@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2013-04-13T15:49:07Z" product-name="femanager">
+		<header/>
+		<body>
+			<trans-unit id="tx_femanager_domain_model_user">
+				<target state="translated">Benutzer</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.username">
+				<target state="translated">Benutzername</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.password">
+				<target state="translated">Passwort</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.usergroup">
+				<target state="translated">Benutzergruppe</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.name">
+				<target state="translated">Name</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.firstName">
+				<target state="translated">Vorname</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.middleName">
+				<target state="translated">Mittelname</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.lastName">
+				<target state="translated">Nachname</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.address">
+				<target state="translated">Adresse</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.telephone">
+				<target state="translated">Telefon</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.fax">
+				<target state="translated">Fax</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.email">
+				<target state="translated">E-Mail</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.title">
+				<target state="translated">Titel</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.zip">
+				<target state="translated">PLZ</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.city">
+				<target state="translated">Stadt</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.country">
+				<target state="translated">Land</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.www">
+				<target state="translated">URL</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.company">
+				<target state="translated">Firma</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.image">
+				<target state="translated">Bild</target>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.lastlogin">
+				<target state="translated">Letzter Login</target>
+			</trans-unit>
+
+			<trans-unit id="error_no_typoscript">
+				<target state="translated">Kein TypoScript gefunden. Eventuell fehlt das statische TypoScript?</target>
+			</trans-unit>
+			<trans-unit id="error_no_storagepid">
+				<target state="translated">Keine "Storage PID" gesetzt. Bitte setzen Sie den Ausgangspunkt mit Hilfe von TypoScript oder direkt im Plugin.</target>
+			</trans-unit>
+			<trans-unit id="validationErrorRequired">
+				<target state="translated">This field is required</target>
+			</trans-unit>
+			<trans-unit id="validationErrorEmail">
+				<target state="translated">This is not a valid Email address</target>
+			</trans-unit>
+			<trans-unit id="validationErrorMin">
+				<target state="translated">Please add more characters to this field</target>
+			</trans-unit>
+			<trans-unit id="validationErrorMax">
+				<target state="translated">Please add less characters to this field</target>
+			</trans-unit>
+			<trans-unit id="validationErrorInt">
+				<target state="translated">Only numbers are allowed</target>
+			</trans-unit>
+			<trans-unit id="validationErrorLetters">
+				<target state="translated">Only letters are allowed</target>
+			</trans-unit>
+			<trans-unit id="validationErrorUniquePage">
+				<target state="translated">This value is already in use</target>
+			</trans-unit>
+			<trans-unit id="validationErrorUniqueDb">
+				<target state="translated">This value is already in use</target>
+			</trans-unit>
+			<trans-unit id="validationErrorMustInclude">
+				<target state="translated">Try another value</target>
+			</trans-unit>
+			<trans-unit id="validationErrorInList">
+				<target state="translated">This value is not allowed</target>
+			</trans-unit>
+			<trans-unit id="validationErrorPasswordRepeat">
+				<target state="translated">Both passwords do not fit</target>
+			</trans-unit>
+
+			<trans-unit id="noRecordsFound">
+				<target state="translated">Keine Datensätze gefunden.</target>
+			</trans-unit>
+			<trans-unit id="submitNew">
+				<target state="translated">Profil jetzt erstellen</target>
+			</trans-unit>
+			<trans-unit id="passwordRepeat">
+				<target state="translated">Passwort wiederholen</target>
+			</trans-unit>
+			<trans-unit id="titleCreateProfile">
+				<target state="translated">Neues Benutzerprofil erstellen</target>
+			</trans-unit>
+			<trans-unit id="submitEdit">
+				<target state="translated">Profil ändern</target>
+			</trans-unit>
+			<trans-unit id="create">
+				<target state="translated">Profil erstellt</target>
+			</trans-unit>
+			<trans-unit id="login">
+				<target state="translated">Sie sind erfolgreich angemeldet</target>
+			</trans-unit>
+			<trans-unit id="pleaseChoose">
+				<target state="translated">Bitte wählen...</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

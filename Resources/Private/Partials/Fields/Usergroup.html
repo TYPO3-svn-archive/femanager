@@ -1,0 +1,8 @@
+{namespace femanager=In2\Femanager\ViewHelpers}
+<div class="femanager_fieldset">
+	<label for="usergroup">
+		<f:translate key="tx_femanager_domain_model_user.usergroup" />
+	</label>
+	<femanager:form.select id="usergroup" name="user[usergroup][]" options="{allUserGroups}" optionValueField="uid" optionLabelField="title" sortByOptionLabel="1"
+			defaultOption="{f:translate(key:'pleaseChoose')}" value="{femanager:misc.request(parameter:'tx_femanager_pi1|user|usergroup|0')}" />
+</div>

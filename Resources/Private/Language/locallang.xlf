@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-04-13T15:49:07Z" product-name="femanager">
+		<header/>
+		<body>
+			<trans-unit id="tx_femanager_domain_model_user">
+				<source>User</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.username">
+				<source>Username</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.password">
+				<source>Password</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.usergroup">
+				<source>Usergroup</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.firstName">
+				<source>Firstname</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.middleName">
+				<source>Middlename</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.lastName">
+				<source>Lastname</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.telephone">
+				<source>Telephone</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.fax">
+				<source>Fax</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.email">
+				<source>Email</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.zip">
+				<source>ZIP</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.city">
+				<source>City</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.country">
+				<source>Country</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.www">
+				<source>Website</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.company">
+				<source>Company</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.image">
+				<source>Image</source>
+			</trans-unit>
+			<trans-unit id="tx_femanager_domain_model_user.lastlogin">
+				<source>Last login</source>
+			</trans-unit>
+
+			<trans-unit id="error_no_typoscript">
+				<source>No TypoScript found. Did you already include the static Template?</source>
+			</trans-unit>
+			<trans-unit id="error_no_storagepid">
+				<source>No Storage PID was set. Please set the storage PID via TypoScript or in the plugin settings.</source>
+			</trans-unit>
+			<trans-unit id="validationErrorRequired">
+				<source>This field is required</source>
+			</trans-unit>
+			<trans-unit id="validationErrorEmail">
+				<source>This is not a valid Email address</source>
+			</trans-unit>
+			<trans-unit id="validationErrorMin">
+				<source>Please add more characters to this field</source>
+			</trans-unit>
+			<trans-unit id="validationErrorMax">
+				<source>Please add less characters to this field</source>
+			</trans-unit>
+			<trans-unit id="validationErrorInt">
+				<source>Only numbers are allowed</source>
+			</trans-unit>
+			<trans-unit id="validationErrorLetters">
+				<source>Only letters are allowed</source>
+			</trans-unit>
+			<trans-unit id="validationErrorUniquePage">
+				<source>This value is already in use</source>
+			</trans-unit>
+			<trans-unit id="validationErrorUniqueDb">
+				<source>This value is already in use</source>
+			</trans-unit>
+			<trans-unit id="validationErrorMustInclude">
+				<source>Try another value</source>
+			</trans-unit>
+			<trans-unit id="validationErrorInList">
+				<source>This value is not allowed</source>
+			</trans-unit>
+			<trans-unit id="validationErrorPasswordRepeat">
+				<source>Both passwords do not fit</source>
+			</trans-unit>
+
+			<trans-unit id="noRecordsFound">
+				<source>No records found.</source>
+			</trans-unit>
+			<trans-unit id="submitNew">
+				<source>Create Profile Now</source>
+			</trans-unit>
+			<trans-unit id="passwordRepeat">
+				<source>Repeat Password</source>
+			</trans-unit>
+			<trans-unit id="titleCreateProfile">
+				<source>Create a new user-profile</source>
+			</trans-unit>
+			<trans-unit id="submitEdit">
+				<source>Update Profile</source>
+			</trans-unit>
+			<trans-unit id="create">
+				<source>Profile created</source>
+			</trans-unit>
+			<trans-unit id="login">
+				<source>You're successfully logged in now</source>
+			</trans-unit>
+			<trans-unit id="pleaseChoose">
+				<source>Please choose...</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

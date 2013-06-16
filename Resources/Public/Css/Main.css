@@ -1,0 +1,25 @@
+/* line 1, ../../Private/Sass/_Main.scss */
+.femanager_error {
+  background-color: #f6d3cf;
+  background-image: url("../../../../../../typo3/sysext/t3skin/icons/gfx/error.png");
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  border: 1px solid #d66c68;
+  color: #aa0225;
+  margin-bottom: 4px;
+  padding: 12px 12px 12px 36px;
+  list-style-type: none;
+}
+
+/* line 14, ../../Private/Sass/_Main.scss */
+.femanager_note {
+  background-color: #f6f7fa;
+  background-image: url("../../../../../../typo3/sysext/t3skin/icons/gfx/notice.png");
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  border: 1px solid #c2cbcf;
+  color: #444444;
+  margin-bottom: 4px;
+  padding: 12px 12px 12px 36px;
+  list-style-type: none;
+}

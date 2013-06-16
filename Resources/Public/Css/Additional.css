@@ -1,0 +1,37 @@
+/* line 2, ../../Private/Sass/_Additional.scss */
+.tx-femanager fieldset {
+  border: none;
+  padding: 10px;
+  background-color: #c2cbcf;
+}
+/* line 7, ../../Private/Sass/_Additional.scss */
+.tx-femanager legend {
+  float: left;
+  margin-left: -2px;
+  font-weight: bold;
+}
+/* line 12, ../../Private/Sass/_Additional.scss */
+.tx-femanager label {
+  float: left;
+  width: 150px;
+  clear: left;
+  font-weight: bold;
+}
+/* line 20, ../../Private/Sass/_Additional.scss */
+.tx-femanager input,
+.tx-femanager select,
+.tx-femanager textarea {
+  width: 200px;
+  padding: 4px;
+}
+/* line 23, ../../Private/Sass/_Additional.scss */
+.tx-femanager input:focus,
+.tx-femanager select:focus,
+.tx-femanager textarea:focus {
+  background-color: #f6d3cf;
+}
+/* line 27, ../../Private/Sass/_Additional.scss */
+.tx-femanager .femanager_fieldset {
+  padding: 10px 0;
+  clear: left;
+}

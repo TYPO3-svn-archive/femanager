@@ -1,0 +1,21 @@
+<f:layout name="Default" />
+
+User / Status
+
+<f:section name="main">
+
+	<div class="femanager_status">
+		<f:flashMessages class="femanager_error" />
+
+		<div class="femanager_note">
+			<p>
+				<f:translate key="create" />
+			</p>
+			<f:if condition="{settings.new.login}">
+				<p>
+					<f:translate key="login" />
+				</p>
+			</f:if>
+		</div>
+	</div>
+</f:section>

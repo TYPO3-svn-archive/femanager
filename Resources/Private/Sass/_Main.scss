@@ -1,0 +1,26 @@
+.femanager_error {
+  background: {
+    color: $errorSoft2;
+    image: url("../../../../../../typo3/sysext/t3skin/icons/gfx/error.png");
+    position: 10px 12px;
+    repeat: no-repeat;
+  }
+  border: 1px solid $errorSoft;
+  color: $error;
+  margin-bottom: 4px;
+  padding: 12px 12px 12px 36px;
+  list-style-type: none;
+}
+.femanager_note {
+  background: {
+    color: $noteSoft2;
+    image: url("../../../../../../typo3/sysext/t3skin/icons/gfx/notice.png");
+    position: 10px 12px;
+    repeat: no-repeat;
+  }
+  border: 1px solid $noteSoft;
+  color: $note;
+  margin-bottom: 4px;
+  padding: 12px 12px 12px 36px;
+  list-style-type: none;
+}
